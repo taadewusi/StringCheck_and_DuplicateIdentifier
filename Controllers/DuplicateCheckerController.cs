@@ -29,11 +29,5 @@ namespace StringCheck.Controllers
             }
         }
 
-
-
-
-
-
-
     }
 }
